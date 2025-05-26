@@ -1,0 +1,84 @@
+2025-05-25 16:49:17 INFO - Loading pretrained weights from Hugging Face hub (timm/tf_efficientnetv2_s.in21k_ft_in1k)
+2025-05-25 16:49:17 INFO - [timm/tf_efficientnetv2_s.in21k_ft_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+2025-05-25 16:49:17 WARNING - Unexpected keys (bn2.bias, bn2.num_batches_tracked, bn2.running_mean, bn2.running_var, bn2.weight, classifier.bias, classifier.weight, conv_head.weight) found while loading pretrained weights. This may be expected if model is being adapted.
+2025-05-25 16:49:47 INFO - Epoch 01 – Train Loss 1.4452 – Time 0m 29s (remain 0m 0s)
+2025-05-25 16:49:50 INFO - Ep01 TL 1.4452 VL 1.2342 ACC 0.4733
+2025-05-25 16:50:10 INFO - Loading pretrained weights from Hugging Face hub (timm/tf_efficientnetv2_s.in21k_ft_in1k)
+2025-05-25 16:50:11 INFO - [timm/tf_efficientnetv2_s.in21k_ft_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+2025-05-25 16:50:11 WARNING - Unexpected keys (bn2.bias, bn2.num_batches_tracked, bn2.running_mean, bn2.running_var, bn2.weight, classifier.bias, classifier.weight, conv_head.weight) found while loading pretrained weights. This may be expected if model is being adapted.
+2025-05-25 16:50:42 INFO - Epoch 01 – Train Loss 1.1533 – Time 0m 30s (remain 0m 0s)
+2025-05-25 16:50:45 INFO - Ep01 TL 1.1533 VL 0.8454 ACC 0.6905
+2025-05-25 16:51:15 INFO - Epoch 02 – Train Loss 1.0829 – Time 0m 29s (remain 0m 0s)
+2025-05-25 16:51:18 INFO - Ep02 TL 1.0829 VL 0.6737 ACC 0.7743
+2025-05-25 16:51:45 INFO - Epoch 03 – Train Loss 1.0528 – Time 0m 27s (remain 0m 0s)
+2025-05-25 16:51:48 INFO - Ep03 TL 1.0528 VL 0.7172 ACC 0.7427
+2025-05-25 16:52:15 INFO - Epoch 04 – Train Loss 1.0400 – Time 0m 26s (remain 0m 0s)
+2025-05-25 16:52:18 INFO - Ep04 TL 1.0400 VL 0.7071 ACC 0.7512
+2025-05-25 16:52:47 INFO - Epoch 05 – Train Loss 1.0004 – Time 0m 29s (remain 0m 0s)
+2025-05-25 16:52:51 INFO - Ep05 TL 1.0004 VL 0.6516 ACC 0.7876
+2025-05-25 16:53:23 INFO - Epoch 06 – Train Loss 1.0259 – Time 0m 31s (remain 0m 0s)
+2025-05-25 16:53:26 INFO - Ep06 TL 1.0259 VL 0.6628 ACC 0.7767
+2025-05-25 16:57:16 INFO - Loading pretrained weights from Hugging Face hub (timm/efficientnet_b5.sw_in12k_ft_in1k)
+2025-05-25 16:57:18 INFO - [timm/efficientnet_b5.sw_in12k_ft_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+2025-05-25 16:57:18 WARNING - Unexpected keys (bn2.bias, bn2.num_batches_tracked, bn2.running_mean, bn2.running_var, bn2.weight, classifier.bias, classifier.weight, conv_head.weight) found while loading pretrained weights. This may be expected if model is being adapted.
+2025-05-25 16:58:06 INFO - Epoch 01 – Train Loss 1.1225 – Time 0m 48s (remain 0m 0s)
+2025-05-25 16:58:10 INFO - Ep01 TL 1.1225 VL 0.7211 ACC 0.7415
+2025-05-25 16:58:55 INFO - Epoch 02 – Train Loss 1.0141 – Time 0m 44s (remain 0m 0s)
+2025-05-25 16:58:59 INFO - Ep02 TL 1.0141 VL 0.6417 ACC 0.7900
+2025-05-25 16:59:40 INFO - Epoch 03 – Train Loss 1.0049 – Time 0m 40s (remain 0m 0s)
+2025-05-25 16:59:43 INFO - Ep03 TL 1.0049 VL 0.6554 ACC 0.7864
+2025-05-25 17:00:28 INFO - Epoch 04 – Train Loss 0.9781 – Time 0m 44s (remain 0m 0s)
+2025-05-25 17:00:32 INFO - Ep04 TL 0.9781 VL 0.6114 ACC 0.8119
+2025-05-25 17:01:14 INFO - Epoch 05 – Train Loss 0.9516 – Time 0m 42s (remain 0m 0s)
+2025-05-25 17:01:18 INFO - Ep05 TL 0.9516 VL 0.5870 ACC 0.8046
+2025-05-25 17:02:00 INFO - Epoch 06 – Train Loss 0.9613 – Time 0m 42s (remain 0m 0s)
+2025-05-25 17:02:03 INFO - Ep06 TL 0.9613 VL 0.5478 ACC 0.8192
+2025-05-25 17:02:45 INFO - Epoch 07 – Train Loss 0.9581 – Time 0m 41s (remain 0m 0s)
+2025-05-25 17:02:48 INFO - Ep07 TL 0.9581 VL 0.5858 ACC 0.8204
+2025-05-25 17:03:34 INFO - Epoch 08 – Train Loss 0.9039 – Time 0m 45s (remain 0m 0s)
+2025-05-25 17:03:37 INFO - Ep08 TL 0.9039 VL 0.5549 ACC 0.8083
+2025-05-25 17:04:19 INFO - Epoch 09 – Train Loss 0.9042 – Time 0m 41s (remain 0m 0s)
+2025-05-25 17:04:22 INFO - Ep09 TL 0.9042 VL 0.5698 ACC 0.8095
+2025-05-25 17:05:06 INFO - Epoch 10 – Train Loss 0.9013 – Time 0m 43s (remain 0m 0s)
+2025-05-25 17:05:09 INFO - Ep10 TL 0.9013 VL 0.5693 ACC 0.8192
+2025-05-25 17:05:51 INFO - Epoch 11 – Train Loss 0.9183 – Time 0m 42s (remain 0m 0s)
+2025-05-25 17:05:55 INFO - Ep11 TL 0.9183 VL 0.5733 ACC 0.8131
+2025-05-25 17:06:37 INFO - Epoch 12 – Train Loss 0.8838 – Time 0m 42s (remain 0m 0s)
+2025-05-25 17:06:40 INFO - Ep12 TL 0.8838 VL 0.5734 ACC 0.8119
+2025-05-25 17:07:23 INFO - Epoch 13 – Train Loss 0.8972 – Time 0m 43s (remain 0m 0s)
+2025-05-25 17:07:26 INFO - Ep13 TL 0.8972 VL 0.5909 ACC 0.8192
+2025-05-25 17:08:08 INFO - Epoch 14 – Train Loss 0.8846 – Time 0m 41s (remain 0m 0s)
+2025-05-25 17:08:12 INFO - Ep14 TL 0.8846 VL 0.5839 ACC 0.7949
+2025-05-25 17:08:58 INFO - Epoch 15 – Train Loss 0.8667 – Time 0m 45s (remain 0m 0s)
+2025-05-25 17:09:02 INFO - Ep15 TL 0.8667 VL 0.5586 ACC 0.8192
+2025-05-25 17:09:42 INFO - Epoch 16 – Train Loss 0.8885 – Time 0m 40s (remain 0m 0s)
+2025-05-25 17:09:46 INFO - Ep16 TL 0.8885 VL 0.5785 ACC 0.8143
+2025-05-25 17:10:31 INFO - Epoch 17 – Train Loss 0.8775 – Time 0m 44s (remain 0m 0s)
+2025-05-25 17:10:34 INFO - Ep17 TL 0.8775 VL 0.6066 ACC 0.8155
+2025-05-25 17:11:18 INFO - Epoch 18 – Train Loss 0.8660 – Time 0m 44s (remain 0m 0s)
+2025-05-25 17:11:22 INFO - Ep18 TL 0.8660 VL 0.5804 ACC 0.8083
+2025-05-25 17:12:05 INFO - Epoch 19 – Train Loss 0.8190 – Time 0m 43s (remain 0m 0s)
+2025-05-25 17:12:09 INFO - Ep19 TL 0.8190 VL 0.5705 ACC 0.8022
+2025-05-25 17:12:52 INFO - Epoch 20 – Train Loss 0.8606 – Time 0m 42s (remain 0m 0s)
+2025-05-25 17:12:55 INFO - Ep20 TL 0.8606 VL 0.5724 ACC 0.7998
+2025-05-25 17:13:39 INFO - Epoch 21 – Train Loss 0.8404 – Time 0m 43s (remain 0m 0s)
+2025-05-25 17:13:43 INFO - Ep21 TL 0.8404 VL 0.5750 ACC 0.8107
+2025-05-25 17:14:29 INFO - Epoch 22 – Train Loss 0.8338 – Time 0m 46s (remain 0m 0s)
+2025-05-25 17:14:32 INFO - Ep22 TL 0.8338 VL 0.5734 ACC 0.8107
+2025-05-25 17:15:14 INFO - Epoch 23 – Train Loss 0.8470 – Time 0m 42s (remain 0m 0s)
+2025-05-25 17:15:17 INFO - Ep23 TL 0.8470 VL 0.5744 ACC 0.8070
+2025-05-25 17:15:59 INFO - Epoch 24 – Train Loss 0.8140 – Time 0m 42s (remain 0m 0s)
+2025-05-25 17:16:03 INFO - Ep24 TL 0.8140 VL 0.5533 ACC 0.8119
+2025-05-25 17:16:49 INFO - Epoch 25 – Train Loss 0.8165 – Time 0m 45s (remain 0m 0s)
+2025-05-25 17:16:52 INFO - Ep25 TL 0.8165 VL 0.5609 ACC 0.8070
+2025-05-25 17:17:34 INFO - Epoch 26 – Train Loss 0.8093 – Time 0m 41s (remain 0m 0s)
+2025-05-25 17:17:38 INFO - Ep26 TL 0.8093 VL 0.5811 ACC 0.7973
+2025-05-25 17:18:18 INFO - Epoch 27 – Train Loss 0.8321 – Time 0m 40s (remain 0m 0s)
+2025-05-25 17:18:22 INFO - Ep27 TL 0.8321 VL 0.5728 ACC 0.8022
+2025-05-25 17:19:06 INFO - Epoch 28 – Train Loss 0.8130 – Time 0m 44s (remain 0m 0s)
+2025-05-25 17:19:10 INFO - Ep28 TL 0.8130 VL 0.5692 ACC 0.8095
+2025-05-25 17:19:51 INFO - Epoch 29 – Train Loss 0.8147 – Time 0m 41s (remain 0m 0s)
+2025-05-25 17:19:55 INFO - Ep29 TL 0.8147 VL 0.5722 ACC 0.8070
+2025-05-25 17:20:36 INFO - Epoch 30 – Train Loss 0.8092 – Time 0m 41s (remain 0m 0s)
+2025-05-25 17:20:40 INFO - Ep30 TL 0.8092 VL 0.5761 ACC 0.7973
+2025-05-25 17:20:40 INFO - Final ACC on validation set: 0.8204

@@ -1,0 +1,26 @@
+
+===== Fold 0 (ACC=0.8301) =====
+              precision    recall  f1-score   support
+
+         CBB     0.6493    0.7982    0.7160       109
+        CBSD     0.9005    0.7854    0.8390       219
+         CGM     0.8843    0.8992    0.8917       238
+     Healthy     0.8210    0.8178    0.8194       258
+
+    accuracy                         0.8301       824
+   macro avg     0.8138    0.8251    0.8165       824
+weighted avg     0.8377    0.8301    0.8318       824
+
+
+===== Overall OOF (ACC=0.8301) =====
+              precision    recall  f1-score   support
+
+         CBB     0.6493    0.7982    0.7160       109
+        CBSD     0.9005    0.7854    0.8390       219
+         CGM     0.8843    0.8992    0.8917       238
+     Healthy     0.8210    0.8178    0.8194       258
+
+    accuracy                         0.8301       824
+   macro avg     0.8138    0.8251    0.8165       824
+weighted avg     0.8377    0.8301    0.8318       824
+
